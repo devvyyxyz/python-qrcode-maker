@@ -61,4 +61,4 @@ Contributions are not being taken.
 
 ## License
 
-Specify the license under which your project is released here. You can choose from a variety of open source licenses, depending on your needs.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
