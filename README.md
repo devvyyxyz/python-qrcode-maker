@@ -35,16 +35,8 @@ git clone https://github.com/devvyyxyz/python-qrcode-maker
 ```
 cd python-qrcode-maker
 ```
-3. Install the project dependencies:
-```
-pip install -r requirements.txt
-```
-4. (Optional) If you plan to contribute to the project, you may want to install additional development dependencies. To do so, run:
-```
-pip install -r requirements-dev.txt
-```
-5. Set up any required configuration files or environment variables as specified in the project documentation.
-6. Run the project:
+3. Set up any required configuration files or environment variables as specified in the project documentation.
+4. Run the project:
 ```
 python main.py
 ```
