@@ -22,29 +22,29 @@ Finally, the image is saved as a PNG file named `qrcode.png` using the `save()` 
 
 ## Features
 
-List out the key features of your project here.
+- convert links or text to a QR code.
 
 ## Installation
 
 To install this project, follow these steps:
-- Clone the repository to your local machine:
+1. Clone the repository to your local machine:
 ```
-git clone https://github.com/username/repo.git
+git clone https://github.com/devvyyxyz/python-qrcode-maker
 ```
-- Navigate to the project directory:
+2. Navigate to the project directory:
 ```
-cd repo
+cd python-qrcode-maker
 ```
-- Install the project dependencies:
+3. Install the project dependencies:
 ```
 pip install -r requirements.txt
 ```
-- (Optional) If you plan to contribute to the project, you may want to install additional development dependencies. To do so, run:
+4. (Optional) If you plan to contribute to the project, you may want to install additional development dependencies. To do so, run:
 ```
 pip install -r requirements-dev.txt
 ```
-- Set up any required configuration files or environment variables as specified in the project documentation.
-- Run the project:
+5. Set up any required configuration files or environment variables as specified in the project documentation.
+6. Run the project:
 ```
 python main.py
 ```
@@ -53,11 +53,11 @@ python main.py
 
 ## Usage
 
-Explain how to use your project here. You can provide code examples or screenshots to help users understand your project better.
+Enter a value when prompted and press enter then navigate to `python-qrcode-maker/qrcode.png`.
 
 ## Contributing
 
-Explain how others can contribute to your project here. This can include information on how to submit bug reports, feature requests, or pull requests.
+Contributions are not being taken.
 
 ## License
 
